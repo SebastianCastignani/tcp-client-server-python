@@ -1,4 +1,4 @@
-# Chat Cliente-Servidor con Sockets TCP 🐍🌐
+# Chat Cliente-Servidor con Sockets TCP 
 
 ## Descripción
 
@@ -8,7 +8,7 @@ El objetivo principal fue comprender el funcionamiento de los sockets, la asigna
 
 ---
 
-## 🛠️ Tecnologías y Herramientas
+## Tecnologías y Herramientas
 
 * **Lenguaje:** Python 3.x
 * **Protocolo de Transporte:** TCP (Stream Sockets)
@@ -16,7 +16,7 @@ El objetivo principal fue comprender el funcionamiento de los sockets, la asigna
 
 ---
 
-## 🚀 Cómo ejecutar el proyecto
+## Cómo ejecutar el proyecto
 
 Para probar la comunicación, seguí estos pasos en dos terminales diferentes:
 
@@ -38,7 +38,7 @@ Una vez conectado, podrás enviar mensajes al servidor. Para finalizar, podés c
 
 ---
 
-## 📊 Análisis de Red (Networking Insights)
+## Análisis de Red
 
 Durante la actividad, se utilizó `netstat -ano` para auditar la tabla de conexiones y comparar los estados con y sin conexión activa.
 
@@ -49,9 +49,7 @@ Durante la actividad, se utilizó `netstat -ano` para auditar la tabla de conexi
 
 ---
 
-## 🎓 Contexto Académico
-
-**Institución:** Universidad Nacional de Hurlingham (UNAHUR)  
+**Universidad:** Universidad Nacional de Hurlingham (UNAHUR)  
 **Materia:** Redes de Computadoras  
 **Trabajo Práctico:** N.º 7  
 **Autor:** Sebastián Castignani
